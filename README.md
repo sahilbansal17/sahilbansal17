@@ -1,16 +1,53 @@
-Joined Github **5** years ago.
+<h1>
+    Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+</h1>
 
-Since then I pushed **941** commits, opened **22** issues, submitted **46** pull requests, received **1254** stars across **40** personal projects and contributed to **2** public repositories.
+<p align='center'>
+</p>
 
-Most used languages across my projects:
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=sahilbansal17.sahilbansal17)
+[![Github](https://img.shields.io/github/followers/sahilbansal17?label=Follow&style=social)](https://github.com/sahilbansal17)
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B163.1%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B132%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B11.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.9%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B10.7%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.6%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.3%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.8%25)
+<div size='20px'>
+    Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile:
+</div>
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+<h2>
+    About Me
+</h2>
+
+- 💎 I’m currently working on Ruby on Rails, React @ work
+
+- 🌱 I’m currently learning Algorithms & Low Level Design (LLD)
+
+- 👯 I’m looking to collaborate on Open Source Projects
+
+- 💬 Talk to me about Competitive Coding, DSA, OOP, C++, Python, Ruby, JS
+
+<h2>
+    Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h2>
+<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+&nbsp;
+<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+&nbsp;
+<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
+&nbsp;
+<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=js&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+
+<h2>
+    Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h2>
+
+<a href = 'https://www.linkedin.com/in/sahilbansal17'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+&nbsp;
+<a href = 'https://www.twitter.com/sahilbansal11'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+
+<br>
+
+<h2>
+    Github Stats
+</h2>
+
+| ![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilbansal17&show_icons=true&theme=radical) | ![Sahil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbansal17&theme=radical) |
+|---|---|
