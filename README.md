@@ -5,7 +5,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=sahilbansal17.sahilbansal17)
 [![Github](https://img.shields.io/github/followers/sahilbansal17?label=Follow&style=social)](https://github.com/sahilbansal17)
 
 <div size='20px'>
