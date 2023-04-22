@@ -15,7 +15,7 @@
 
 - 💎 I’m currently working on Ruby on Rails, React @ work
 
-- 🌱 I’m currently learning Algorithms & Low Level Design (LLD)
+- 🌱 I’m currently learning Low Level Design (LLD) and System Design.
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
