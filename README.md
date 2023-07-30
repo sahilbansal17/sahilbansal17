@@ -6,45 +6,19 @@
 </p>
 
 <div size='20px'>
-    Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile:
+    Hi! My name is Sahil Bansal. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2>
     About Me
 </h2>
 
-- 💎 I’m currently working on Ruby on Rails, React @ work
+- 💎 I’m currently working as a Software Engineer II at <a href="https://www.scaler.com" target="_blank"/>Scaler</a> by <a href="https://interviewbit.com/" target="_blank">Interviewbit</a>.
 
-- 🌱 I’m currently learning Low Level Design (LLD) and System Design.
+- 🌱 I’m currently enhancing my skills on <a href="https://github.com/tssovi/grokking-the-object-oriented-design-interview" target="_blank">Object Oriented Design</a> and <a href="https://roadmap.sh/system-design" target="_blank">System Design</a>.
 
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on Open Source Projects, email me at shlbnsl843@gmail.com.
 
-- 💬 Talk to me about Competitive Coding, DSA, OOP, C++, Python, Ruby, JS
+- 💬 <a href="https://cal.com/sahilb" target="_blank">Book a Free Call with Me</a> about Breaking into Tech, Technical Interviews, and anything else!
 
-<h2>
-    Skills &nbsp;
-</h2>
-<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-&nbsp;
-<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-&nbsp;
-<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
-&nbsp;
-<a href= https://github.com/sahilbansal17?tab=repositories&q=&type=&language=js&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-
-<h2>
-    Connect with me
-</h2>
-
-<a href = 'https://www.linkedin.com/in/sahilbansal17'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-&nbsp;
-<a href = 'https://www.twitter.com/sahilbansal11'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-
-<br>
-
-<h2>
-    Github Stats
-</h2>
-
-| ![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilbansal17&show_icons=true&theme=radical) | ![Sahil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbansal17&theme=radical) |
-|---|---|
+- Find all my social links [here](https://bento.me/sahilbansal) !
