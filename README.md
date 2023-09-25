@@ -19,6 +19,6 @@
 
 - 👯 I’m looking to collaborate on Open Source Projects, email me at shlbnsl843@gmail.com.
 
-- 💬 <a href="https://cal.com/sahilb" target="_blank">Book a Free Call with Me</a> about Breaking into Tech, Technical Interviews, and anything else!
+- 💬 <a href="https://topmate.io/sahil_bansal" target="_blank">Book a Call with Me</a> about Breaking into Tech, Technical Interviews, and anything else!
 
 - Find all my social links [here](https://bento.me/sahilbansal) !
