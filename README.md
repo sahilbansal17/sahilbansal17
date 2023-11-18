@@ -13,7 +13,7 @@
     About Me
 </h2>
 
-- 💎 I’m currently working as a Software Engineer II at <a href="https://www.scaler.com" target="_blank"/>Scaler</a> by <a href="https://interviewbit.com/" target="_blank">Interviewbit</a>.
+- 💎 I’m currently working as a Software Engineer II at <a href="https://www.scaler.com" target="_blank"/>Scaler</a> by <a href="https://interviewbit.com/" target="_blank">Interviewbit</a>. Link to my Github Profile at Work: <a href="https://github.com/sahilbansal11" target="_blank">Work Github Profile</a>
 
 - 🌱 I’m currently enhancing my skills on <a href="https://github.com/tssovi/grokking-the-object-oriented-design-interview" target="_blank">Object Oriented Design</a> and <a href="https://roadmap.sh/system-design" target="_blank">System Design</a>.
 
