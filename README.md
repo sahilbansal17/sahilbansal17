@@ -13,4 +13,7 @@
     About Me
 </h2>
 
-- 💎 I’m currently working as a Senior Software Engineer at <a href="https://www.scaler.com" target="_blank"/>Scaler</a> by <a href="https://interviewbit.com/" target="_blank">Interviewbit</a>. Link to my Github Profile at Work: <a href="https://github.com/sahilbansal11" target="_blank">Work Github Profile</a>
+- 💎 I’m currently working as a Senior Software Engineer at <a href="https://secureframe.com/" target="_blank"/>Secureframe</a>.
+- 💎 I have worked with <a href="http://scaler.com/" target="_blank"/> Scaler<a> in the past. Link to my Github Profile at Scaler: <a href="https://github.com/sahilbansal11" target="_blank">Work Github Profile</a>
+
+I post content regularly on X, you can find me here - <a href="https://x.com/sahilbansal11" target="_blank"/> X (Twitter) account
